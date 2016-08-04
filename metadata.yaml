@@ -1,0 +1,33 @@
+_repo: The-Works-of-Edgar-Allan-Poe---Volume-3_2149
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Poe, Edgar Allan
+    alias: Poe, Edgar Allen
+    birthdate: 1809
+    deathdate: 1849
+    gutenberg_agent_id: '481'
+    url: http://www.gutenberg.org/2009/agents/481
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Allan_Poe
+description: ''
+gutenberg_bookshelf:
+- Mystery Fiction
+- Horror
+gutenberg_issued: '2000-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2149'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horror tales, American'
+- !lcsh 'Fantasy fiction'
+- !lcc 'PS'
+- !lcsh 'American fiction -- 19th century'
+- GITenberg
+tableOfContents: Narrative of A. Gordon Pym -- Ligeia -- Morella -- A tale of the
+  Ragged Mountains -- The spectacles -- King Pest -- Three Sundays in a week.
+title: The Works of Edgar Allan Poe — Volume 3
+url: http://www.gutenberg.org/ebooks/2149
